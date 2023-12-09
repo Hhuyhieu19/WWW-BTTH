@@ -9,7 +9,7 @@ Subject: Lập trình WWW với công nghệ JAVA
 
 ### Description:
 
-Bài tập lab01 week2
+Bài tập lab05 week2
 
 Yêu cầu: Thực hiện chức năng phân trang
 
